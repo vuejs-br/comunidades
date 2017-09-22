@@ -19,3 +19,4 @@ São Paulo | https://www.meetup.com/pt-BR/VueJS-SP/
 Rio de Janeiro | https://www.meetup.com/pt-BR/Vue-js-in-Rio/
 Belo Horizonte | https://www.meetup.com/pt-BR/Vuejs-at-BH/
 Porto Alegre | https://www.meetup.com/pt-BR/Meetup-de-Vue-js-Porto-Alegre/
+Florianópolis | https://www.meetup.com/pt-BR/floripa-vuejs/
