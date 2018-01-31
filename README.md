@@ -3,6 +3,7 @@ Comunidades Vue.js ao redor do Brasil
 
 ## Brasil
 - [Blog](http://www.vuejs-brasil.com.br)
+- [Fórum](https://github.com/vuejs-br/forum)
 - [Facebook (grupo)](https://www.facebook.com/groups/vuejsbr/)
 - [Facebook (página)](https://www.facebook.com/vuejsbrasil/)
 - [Telegram](https://t.me/vuejsbrasil)
