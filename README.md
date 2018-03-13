@@ -10,6 +10,7 @@ Comunidades Vue.js ao redor do Brasil
 - [Telegram (Quasar)](https://t.me/quasarframeworkbrasil)
 - [Twitter](https://twitter.com/vuejs_brasil)
 - [G+](https://plus.google.com/communities/104012886918830494146)
+- [Slack](https://vuejs-brasil.herokuapp.com/)
 
 # Regionais
 ## Meetup
