@@ -8,6 +8,7 @@ Comunidades Vue.js ao redor do Brasil
 - [Facebook (página)](https://www.facebook.com/vuejsbrasil/)
 - [Telegram](https://t.me/vuejsbrasil)
 - [Telegram (Quasar)](https://t.me/quasarframeworkbrasil)
+- [Telegram (Vuetify)](https://t.me/joinchat/DkEiFxDcwyX7GpCzROtnlw)
 - [Twitter](https://twitter.com/vuejs_brasil)
 - [G+](https://plus.google.com/communities/104012886918830494146)
 - [Slack](https://vuejs-brasil.herokuapp.com/)
