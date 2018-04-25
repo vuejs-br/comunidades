@@ -7,6 +7,7 @@ Comunidades Vue.js ao redor do Brasil
 - [Facebook (grupo)](https://www.facebook.com/groups/vuejsbr/)
 - [Facebook (página)](https://www.facebook.com/vuejsbrasil/)
 - [Telegram](https://t.me/vuejsbrasil)
+- [Telegram (GraphQL)](https://t.me/GraphQLBrasil)
 - [Telegram (Quasar)](https://t.me/quasarframeworkbrasil)
 - [Telegram (Vuetify)](https://t.me/vuetifybr)
 - [Telegram (Element)](https://t.me/elementbr)
