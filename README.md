@@ -29,5 +29,6 @@ Florianópolis | [Meetup](https://www.meetup.com/pt-BR/floripa-vuejs/), [Github]
 Porto Alegre | [Meetup](https://www.meetup.com/pt-BR/Meetup-de-Vue-js-Porto-Alegre)
 Rio de Janeiro | [Meetup](https://www.meetup.com/pt-BR/Vue-js-in-Rio)
 São Paulo | [Meetup](https://www.meetup.com/pt-BR/VueJS-SP/)
+Manaus | [Github](https://github.com/VueJS-Manaus), [Telegram](https://t.me/vuejsmanaus)
 
 
