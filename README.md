@@ -18,7 +18,7 @@ Comunidades Vue.js ao redor do Brasil
 - [Vuetify](https://t.me/vuetifybr)
 - [Element](https://t.me/elementbr)
 - [Vue Native](https://t.me/VueNative)
-- [NativescriptVue](https://t.me/nativescriptvuebr)
+- [Nativescript-Vue](https://t.me/nativescriptvuebr)
 
 # Regionais
 
@@ -32,5 +32,5 @@ Florianópolis | [Meetup](https://www.meetup.com/pt-BR/floripa-vuejs/), [Github]
 Porto Alegre | [Meetup](https://www.meetup.com/pt-BR/Meetup-de-Vue-js-Porto-Alegre)
 Rio de Janeiro | [Meetup](https://www.meetup.com/pt-BR/Vue-js-in-Rio)
 São Paulo | [Meetup](https://www.meetup.com/pt-BR/VueJS-SP/)
-
+Vitória | [Meetup](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
 
