@@ -34,4 +34,4 @@ Manaus | [Github](https://github.com/VueJS-Manaus), [Telegram](https://t.me/vuej
 Porto Alegre | [Meetup](https://www.meetup.com/pt-BR/Meetup-de-Vue-js-Porto-Alegre)
 Rio de Janeiro | [Meetup](https://www.meetup.com/pt-BR/Vue-js-in-Rio)
 São Paulo | [Meetup](https://www.meetup.com/pt-BR/VueJS-SP/)
-Vitória | [Meetup](https://www.meetup.com/pt-BR/Vue-js-in-Vix/)
+Vitória | [Meetup](https://www.meetup.com/pt-BR/Vue-js-in-Vix/), [Telegram](https://t.me/vuejsvix)
