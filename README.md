@@ -26,7 +26,7 @@ Comunidades Vue.js ao redor do Brasil
 
 Cidade | Link |
 ------ | ----
-Belém | [GitHub](https://github.com/vuejs-norte), [Meetup](https://www.meetup.com/Vue-js-Norte/)
+Belém | [GitHub](https://github.com/vuejs-norte), [Meetup](https://www.meetup.com/Vue-js-Norte/), [Facebook](https://www.facebook.com/vuejsnorte), [Telegram](https://t.me/joinchat/KjIVwE5XY11h7evjXTwU0A), [Twitter](https://twitter.com/NorteVue)
 Belo Horizonte | [Meetup](https://www.meetup.com/pt-BR/Vuejs-at-BH)
 Brasília | [Meetup](https://www.meetup.com/pt-BR/Vuejs-at-DF)
 Florianópolis | [Meetup](https://www.meetup.com/pt-BR/floripa-vuejs/), [Github](https://github.com/vuefloripa), [Slack](https://join.slack.com/t/vuefloripa/shared_invite/enQtMjQyNjYwNDEyMTk4LTY1ZDVmMTg2ZmZiNzM4Mjk3YjhhNjlmYWQ4ZDM0NzliMTcwZTk4NjFhMjliZGIxYmE5YzU0M2ViMTc4NGY3MzE), [Youtube](https://www.youtube.com/channel/UCzQX1I0wiW64Fh7dVUIM-BA)
