@@ -10,7 +10,7 @@ Comunidades Vue.js ao redor do Brasil
 - [Twitter](https://twitter.com/vuejs_brasil)
 - [G+](https://plus.google.com/communities/104012886918830494146)
 - [Slack](https://vuejs-brasil.herokuapp.com/)
-
+- [Discord](https://discord.gg/ShSPDE6z)
 
 ### Comunidades Parceiras - [Telegram](https://telegram.org/)
 - [GraphQL](https://t.me/GraphQLBrasil)
