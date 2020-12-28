@@ -22,8 +22,6 @@ Comunidades Vue.js ao redor do Brasil
 
 # Regionais
 
-## Meetup
-
 Cidade | Link |
 ------ | ----
 Belém | [GitHub](https://github.com/vuejs-norte), [Meetup](https://www.meetup.com/Vue-js-Norte/), [Facebook](https://www.facebook.com/vuejsnorte), [Telegram](https://t.me/joinchat/KjIVwE5XY11h7evjXTwU0A), [Twitter](https://twitter.com/NorteVue)
